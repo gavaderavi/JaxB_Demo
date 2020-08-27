@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Employee>
+    <address>Pune</address>
+    <id>123</id>
+    <name>Ravi</name>
+    <salary>20000</salary>
+</Employee>
